@@ -42,7 +42,7 @@
 	/obj/structure/falsewall,
 	/obj/structure/falsewall/reinforced,
 	/turf/simulated/wall/rust,
-	/turf/simulated/wall/r_wall/rust
+	/turf/simulated/wall/r_wall/rust,
 	/obj/machinery/door)
 	smooth = SMOOTH_TRUE
 
