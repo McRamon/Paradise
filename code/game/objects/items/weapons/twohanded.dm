@@ -235,7 +235,7 @@
 /obj/item/spear
 	name = "spear"
 	desc = "A haphazardly-constructed yet still deadly weapon of ancient design."
-	icon = 'icons/obj/spear.dmi'
+	icon = 'icons/obj/weapons/spears.dmi'
 	base_icon_state = "spearglass"
 	icon_state = "spearglass0"
 	lefthand_file = 'icons/mob/inhands/weapons_lefthand.dmi'
