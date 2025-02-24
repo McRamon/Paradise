@@ -32713,7 +32713,7 @@
 	},
 /area/station/service/chapel)
 "cyP" = (
-/obj/effect/spawner/window/reinforced,
+/obj/effect/spawner/window/reinforced/plasma,
 /turf/simulated/floor/plating,
 /area/station/science/server)
 "cyR" = (
@@ -39160,6 +39160,7 @@
 /obj/machinery/light{
 	dir = 8
 	},
+/obj/item/reagent_containers/glass/bottle/morphine,
 /turf/simulated/floor/plasteel{
 	dir = 10;
 	icon_state = "whitepurple"
@@ -71461,7 +71462,7 @@
 /turf/simulated/floor/wood,
 /area/station/service/clown)
 "riX" = (
-/obj/effect/spawner/window/reinforced,
+/obj/effect/spawner/window/reinforced/plasma,
 /turf/simulated/floor/plating,
 /area/station/science/server/coldroom)
 "rja" = (
